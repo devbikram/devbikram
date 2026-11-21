@@ -4,8 +4,6 @@
 
 </div>
 
-<img src="https://devbikram.github.io/images/profile-hero.webp" alt="Bikram Keshari Pahi" align="right" width="260">
-
 ## » Hi, I'm Bikram 👋
 
 **Senior Full-Stack Engineer & AI Solution Architect** — I design and build AI features, SaaS platforms and cloud systems that hold up in production, not demos that break on real data.
@@ -16,8 +14,6 @@
 - ☁️ Cloud-native architecture on AWS, Azure and GCP
 - 🎓 M.Tech in Artificial Intelligence & Machine Learning
 - 📍 Bengaluru, India · available for consulting
-
-<br clear="right">
 
 ---
 
